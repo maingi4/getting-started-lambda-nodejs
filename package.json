@@ -1,0 +1,11 @@
+{
+  "name": "getting-started-lambda-node",
+  "version": "1.0.0",
+  "description": "Getting started with AWS Lambda using nodeJs",
+  "main": "domain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sumit Maingi",
+  "license": "GNU"
+}
