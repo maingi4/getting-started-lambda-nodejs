@@ -31,13 +31,13 @@ functions:
     handler: get.domainget
     events:
       - http:
-          path: domains/get
+          path: domains
           method: get
   domainput:
     handler: put.domainput
     events:
       - http:
-          path: domains/put
+          path: domains
           method: put
 
 resources:
